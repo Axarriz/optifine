@@ -13,10 +13,10 @@ of.key.zoom=Zoom
 
 # Message
 of.message.aa.shaders1=Antialiasing no es compatible con shaders.
-of.message.aa.shaders2=Desactívalas para usar esta función.
+of.message.aa.shaders2=Desactívalos para usar esta función.
 
 of.message.af.shaders1=Anisotrópico no es compatible con shaders.
-of.message.af.shaders2=Desactívalas para usar esta función.
+of.message.af.shaders2=Desactívalo para usar esta función.
 
 of.message.fr.shaders1=No es compatible con shaders.
 of.message.fr.shaders2=Desactívalas para usar esta función.
@@ -31,7 +31,7 @@ of.message.shaders.fr1=Las shaders no son compatibles con el renderizado rápido
 of.message.shaders.fr2=Para desactivarlo, haz clic en Rendimiento -> Renderizado rápido.
 
 of.message.an.shaders1=No es compatible con shaders.
-of.message.an.shaders2=Desactívalas para usar esta función.
+of.message.an.shaders2=Desactívalo para usar esta función.
 
 of.message.shaders.aa1=No es compatible con Antialiasing.
 of.message.shaders.aa2=Desactívalo en Calidad -> Antialiasing -> NO.
@@ -705,7 +705,7 @@ of.options.FIREWORK_PARTICLES=Partículas de cohetes
 of.options.LAGOMETER=Medidor de lag
 of.options.LAGOMETER.tooltip.1=Mostrar el medidor de lag al usar F3.
 of.options.LAGOMETER.tooltip.2=* Naranja - Basura en la memoria
-of.options.LAGOMETER.tooltip.3=* Cian - Ticks
+of.options.LAGOMETER.tooltip.3=* Cian - Ticks (marcas)
 of.options.LAGOMETER.tooltip.4=* Azul - Ejecutables programados
 of.options.LAGOMETER.tooltip.5=* Morado - Carga de chunks
 of.options.LAGOMETER.tooltip.6=* Rojo - Actualizaciones de chunks
@@ -742,7 +742,7 @@ options.fullscreen.tooltip.1=Pantalla completa
 options.fullscreen.tooltip.2=  SÍ - jugar en pantalla completa
 options.fullscreen.tooltip.3=  NO - jugar en ventana
 options.fullscreen.tooltip.4=Al jugar en pantalla completa el juego puede funcionar
-options.fullscreen.tooltip.5=mejor o peor, depende de la tarjeta gráfica.
+options.fullscreen.tooltip.5=mejor o peor, depende de la tarjeta gráfica que utilices.
 
 of.options.FULLSCREEN_MODE=Resolución
 of.options.FULLSCREEN_MODE.tooltip.1=Resolución de pantalla completa
@@ -809,5 +809,5 @@ of.options.CHAT_BACKGROUND.tooltip.4=  NO - sin fondo
 
 of.options.CHAT_SHADOW=Sombreado de chat
 of.options.CHAT_SHADOW.tooltip.1=Añadir sombra al texto del chat
-of.options.CHAT_SHADOW.tooltip.2=  SÍ - sombrearlo
-of.options.CHAT_SHADOW.tooltip.3=  NO - sin sombrearlo
+of.options.CHAT_SHADOW.tooltip.2=  SÍ - sombreado
+of.options.CHAT_SHADOW.tooltip.3=  NO - sin sombreado
